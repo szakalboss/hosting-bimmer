@@ -10,7 +10,7 @@ require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/dutchcoders/go-clamd v0.0.0-20170520113014-b970184f4d9e
 	github.com/dutchcoders/go-virustotal v0.0.0-20140923143438-24cc8e6fa329
-	github.com/szakalboss/hosting-bimmer-web v0.0.0-20201106203000-aafdfc4162bc
+	github.com/szakalboss/hosting-bimmer-web v0.0.0-20201106203000-4f9d47ee18e8
 	github.com/elazarl/go-bindata-assetfs v1.0.0
 	github.com/fatih/color v1.9.0
 	github.com/garyburd/redigo v1.6.0 // indirect
