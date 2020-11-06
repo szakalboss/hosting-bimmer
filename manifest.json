@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "github.com/dutchcoders/transfer.sh-web": {
+        "github.com/szakalboss/hosting-bimmer-web": {
             "branch": "master"
         }
     }
